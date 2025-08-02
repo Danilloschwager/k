@@ -27,4 +27,8 @@ estou focado na melhora do desenvolvimento profissional
 ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
 
 ## 📬 **Entre em Contato!**
-<a href = "marconifariasdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<span style="white-space: nowrap;">Email: danillo.de06v@gmail.com • LinkedIn: www.linkedin.com/in/danillo-schwager-18aa20371</span>
+
+﻿
+
