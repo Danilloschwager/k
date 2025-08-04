@@ -1,24 +1,22 @@
 <h1 align="center">Danillo araújo schwager</h1>
 <h3 align="center">Desenvolvedor Back End</h3>
 
-## Sobre mim  
+## About Me
 
-Sou um estudante de **Sistema de informação** estou focado em **java** aprimorando minha experiência e meu conhecimento no curso Fuctura
-também tenho conhecimento na linguagem **python** 
+I'm an **Information Systems** student focused on **Java**, improving my experience and knowledge in the Fuctura course. I also have knowledge of **Python**.
 
-Falo alguns Idiomas: **Português**, **Inglês** e **Alemão**
+I speak several languages: **Portuguese**, **English**, and **German**.
 
-Sou uma pessoa muito **dedica** e **adpatvel** a qualquer situação de mudança no projeto proposto.
-estou focado na melhora do desenvolvimento profissional
+I'm very dedicated and adaptable to any changes in the proposed project. I'm focused on improving my professional development.
 
 ## 🛠 Skills
 
-### 🔹 **Linguagens**
+### 🔹 **Languages**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### 🔹 **Ferramentas & Versionamento**
+### 🔹 **Tools & Versioning**
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -26,9 +24,8 @@ estou focado na melhora do desenvolvimento profissional
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
 
-## 📬 **Entre em Contato!**
+## 📬 **Get in Touch!**
 
 <span style="white-space: nowrap;">Email: danillo.de06v@gmail.com • LinkedIn: www.linkedin.com/in/danillo-schwager-18aa20371</span>
-
 ﻿
 
